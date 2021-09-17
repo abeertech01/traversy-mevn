@@ -1,6 +1,8 @@
 <template>
   <div class="container">
     <h1>Latest Posts</h1>
+    <small>Double click to delete post</small>
+    <br /><br />
     <div class="create-post">
       <label for="create-post">Say Something...</label>
       <input
